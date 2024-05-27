@@ -19,7 +19,7 @@ Este programa auxilia na limpeza do disco, identificando e destacando as pastas 
 2. Execute o seguinte comando para clonar o repositório:
 
    ```bash
-   git clone https://github.com/Henrique3h0/FolderDetails
+   git clone https://github.com/limawebvision/FolderDetails
    ```
 
 ### Instalando os Requisitos
@@ -51,4 +51,4 @@ Este programa auxilia na limpeza do disco, identificando e destacando as pastas 
 ℹ️ Tenha cuidado ao excluir arquivos ou pastas. Certifique-se sempre de que está excluindo os itens corretos e que não são essenciais para o sistema.
 ---
 
-Este programa foi desenvolvido por [LIMA](https://github.com/Henrique3h0). Qualquer dúvida ou problema, por favor, abra uma issue no repositório do projeto. Agradecemos sua colaboração!
+Este programa foi desenvolvido por [LIMA WEBVISION](https://github.com/limawebvision). Qualquer dúvida ou problema, por favor, abra uma issue no repositório do projeto. Agradecemos sua colaboração!
