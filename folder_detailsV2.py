@@ -128,7 +128,7 @@ def main():
 
     clear_terminal()
 
-    with tqdm(desc="Obtendo lista de arquivos e calculando tamanhos", unit="file") as progress_bar:
+    with tqdm(desc="Obtendo a lista de arquivos e calculando tamanhos", unit="file") as progress_bar:
         listar_arquivos(caminho, exibir_todos=args.all, progress_bar=progress_bar)
 
     print(Fore.CYAN + "✅ ANÁLISE COMPLETA\n")
