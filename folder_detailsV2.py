@@ -10,9 +10,8 @@ from rich.tree import Tree
 from win10toast import ToastNotifier
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Table, TableStyle, Image
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Image
 import matplotlib.pyplot as plt
-from reportlab.lib import colors
 
 # Configuração do logging
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')

@@ -1,3 +1,5 @@
-os
-shutil
-operator
+tqdm
+rich
+win10toast
+reportlab
+matplotlib
